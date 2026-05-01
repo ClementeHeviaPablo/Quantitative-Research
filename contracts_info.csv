@@ -1,0 +1,75 @@
+﻿contract_code,contract_long_name,contract_short_name,underlying_name,contract_size,quote_currency,unit
+BO,CBOT Soybean Oil,Soybean Oil,Soybean Oil,60000,USd,lbs.
+BTC,CME Bitcoin,Bitcoin,Bitcoin,5,USD,Bitcoin
+C,CBOT Corn,Corn,Corn,5000,USd,Bushels
+CC,NYBOT Cocoa,Cocoa,Cocoa,10,USD,Metric Tons
+CL,NYMEX Light Sweet Crude Oil,WTI Crude,Crude Oil,1000,USD,Barrels
+CO,ICE Brent Crude,Brent Crude,Crude Oil,1000,USD,Barrels
+CT,NYBOT Number 2 Cotton,#2 Cotton,Cotton,50000,USd,lbs.
+FC,CME Feeder Cattle,Feeder Cattle,Feeder Cattle,50000,USd,lbs.
+GC,COMEX Gold 100 Troy Ounces,Gold,Gold,100,USD,Troy oz.
+HG,COMEX Copper,Copper (COMEX),Copper,25000,USd,lbs.
+HO,NYMEX NY Harbor ULSD,ULS Diesel,ULS Diesel,42000,USd,U.S. Gallons
+KC,NYBOT Coffee C,Coffee,Coffee,37500,USd,lbs.
+KW,KCBT Hard Red Winter Wheat,HRW Wheat,Wheat,5000,USd,Bushels
+LA,LME Primary Aluminum,Aluminum,Aluminum,25,USD,Metric Tons
+LC,CME Live Cattle,Live Cattle,Live Cattle,40000,USd,lbs.
+LH,CME Lean Hogs,Lean Hogs,Lean Hogs,40000,USd,lbs.
+LL,LME Lead,Lead,Lead,25,USD,Metric Tons
+LN,LME Nickel,Nickel,Nickel,6,USD,Metric Tons
+LP,LME Copper,Copper (LME),Copper,25,USD,Metric Tons
+LX,LME Zinc,Zinc,Zinc,25,USD,Metric Tons
+NG,NYMEX Henry Hub Natural Gas,Natural Gas,Natural Gas,10000,USD,MMBtu
+QS,ICE Low Sulphur Gasoil,Gasoil,Gasoil,100,USD,Metric Tons
+S,CBOT Soybean,Soybean,Soybean,5000,USd,Bushels
+SB,NYBOT Number 11 World Sugar,#11 Sugar,Sugar,112000,USd,lbs.
+SI,COMEX Silver,Silver,Silver,5000,USD,Troy oz.
+SM,CBOT Soybean Meal,Soybean Meal,Soybean Meal,100,USD,Short Tons
+W,CBOT Soft Red Winter Wheat,SRW Wheat,Wheat,5000,USd,Bushels
+XB,NYMEX RBOB Gasoline,RBOB Gasoline,RBOB Gasoline,42000,USd,U.S. Gallons
+JO,NYBOT Frozen Concentrate Orange Juice,Orange Juice,Orange Juice,15000,USd,lbs.
+PA,NYMEX Palladium,Palladium,Palladium,100,USD,Troy oz.
+PL,NYMEX Platinum,Platinum,Platinum,50,USD,Troy oz.
+LT,LME Tin,Tin,Tin,5,USD,Metric Tons
+AD,Australian Dollar,Australian Dollar,Australian Dollar,100000,USd,AUD
+BP,British Pound,British Pound,British Pound,62500,USd,GBP
+CD,Canadian Dollar,Canadian Dollar,Canadian Dollar,100000,USd,CAD
+EC,Euro,Euro,Euro,125000,USD,EUR
+SF,Swiss Franc,Swiss Franc,Swiss Franc,125000,USd,CHF
+JY,Japanese Yen,Japanese Yen,Japanese Yen,12500000,USd,JPY
+NO,Norwegian Krone,Norwegian Krone,Norwegian Krone,2000000,USd,NOK
+SE,Swedish Krona,Swedish Krona,Swedish Krona,2000000,USd,SEK
+NV,New Zealand Dollar,New Zealand Dollar,New Zealand Dollar,100000,NZD,NZD
+BR,Brazilian Real,Brazilian Real,Brazilian Real,100000,USd,BRL
+PE,Mexican Peso,Mexican Peso,Mexican Peso,500000,USd,MXN
+DO,Chinese Yuan,Chinese Yuan,Chinese Yuan,1000000,USD,CNY
+SMD,Malaysian Ringgit,Malaysian Ringgit,Malaysian Ringgit,50000,USD,MYR
+PP,Polish Zlotly,Polish Zlotly,Polish Zlotly,500000,USD,PLN
+RU,Russian Ruble,Russian Ruble,Russian Ruble,2500000,USd,RUB
+RA,South African Rand,South African Rand,South African Rand,500000,USd,ZAR
+DX,Dollar Index,Dollar Index,Dollar Index,1000,Pts,Index Points
+NK,Nikkei 225,Nikkei,Nikkei,1000,Index Points,Index Points
+PT,S&P/TSX 60,S&P/TSX 60,S&P/TSX 60,200,Index Points,Index Points
+VG,Euro Stoxx 50,Euro Stoxx,Euro Stoxx,10,Index Points,Index Points
+RTY,E-Mini Russell 2000,Russell 2000,Russell 2000,50,Index Points,Index Points
+US,30 Year Treasury Bond,30 Year Treasury Bond,30 Year Treasury Bond,100000,Points,Points
+TY,10 Year Treasury Note,10 Year Treasury Note,10 Year Treasury Note,100000,Points,Points
+ES,E-Mini S&P 500,S&P 500,S&P 500,50,Index Points,Index Points
+XID,Indian Rupee (Singapore Exchange),Indian Rupee,Indian Rupee,2000000,USd,INR
+KO,Korean Won Mini Future (CME),Korean Won,Korean Won,125000000,USd,KRW
+CN,10 Year Canadian Government Bond,10 Year CAD Bond,10 Year Canadian Government Bond,100000,Points,Points
+BJ,10 Year Mini Japanese Government Bond,10 Year JPN Bond,10 Year Japanese Goverment Bond,10000000,Points,Points
+G,Long Gilt,Long Gilt,UK 10 Year,100000,Points,Points
+RX,Euro Bund,Euro Bund,Euro Bund,100000,Points,Points
+KOA,10 Year Euro Bono,10 Year Euro Bono,10 Year Euro Bono,100000,Points,Points
+UB,Euro Buxl,Euro Buxl,Euro 30 Year,100000,Points,Points
+OAT,Euro-OAT,Euro-OAT,Euro-OAT 10 Year,100000,Points,Points
+RS,Canola,Canola,Canola,20,CAD,Metric Tons
+LB,Lumber,Lumber,Lumber,110000,USD,Board Feet
+RT,Rubber,Rubber,Rubber,10,CNY,Metric Tons
+IHB,Cboe IG Corp Bond Index Futures,Cboe IG Corporate Bond Index,Cboe IG Corporate Bond Index,1000,USD,Index Point
+IBY,Cboe HY Corp Bond Index Futures,Cboe HY Corporate Bond Index,Cboe HY Corporate Bond Index,1000,USD,Index Point
+DCR,CME Ether Future,Ether,Ether,50,USD,Ether
+NQ,E-Mini Nasdaq 100,Nasdaq,Nasdaq,20,Index Points,Index Points
+IH,SGX Nifty 50,Nifty 50,Nifty 50,2,Index Points,Index Points
+XP,SFE-ASX SPI 200 ,ASX SPI 200,ASX SPI 200,25,Index Points,Index Points
